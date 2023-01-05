@@ -1,0 +1,5 @@
+.idea/
+node_modules
+dist/
+server/public
+server/secret.js
